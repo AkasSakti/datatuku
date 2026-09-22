@@ -1,0 +1,2 @@
+# datatuku
+transaksi sederhana
