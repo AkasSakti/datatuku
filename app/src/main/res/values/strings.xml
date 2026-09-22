@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataTuku</string>
+    <string name="form_title">Input Belanja</string>
+    <string name="hint_product_name">Nama produk</string>
+    <string name="hint_quantity">Jumlah</string>
+    <string name="hint_unit_price">Harga satuan</string>
+    <string name="preview_total">Subtotal input: %1$s</string>
+    <string name="preview_total_zero">Subtotal input: Rp0,00</string>
+    <string name="total_payment">Total bayar: %1$s</string>
+    <string name="total_payment_zero">Total bayar: Rp0,00</string>
+    <string name="list_title">Daftar Produk</string>
+    <string name="empty_products">Belum ada produk.</string>
+    <string name="product_detail">%1$d x %2$s</string>
+    <string name="product_subtotal">Subtotal: %1$s</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_update">Update</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Hapus</string>
+    <string name="delete_title">Hapus produk?</string>
+    <string name="delete_message">Produk "%1$s" akan dihapus dari daftar belanja.</string>
+    <string name="error_required">Wajib diisi</string>
+    <string name="error_positive_number">Isi angka lebih dari 0</string>
+    <string name="message_saved">Produk disimpan</string>
+    <string name="message_updated">Produk diperbarui</string>
+    <string name="message_deleted">Produk dihapus</string>
+</resources>
